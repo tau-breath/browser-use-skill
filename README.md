@@ -1,3 +1,11 @@
+<p align="center">
+  <strong>🚀 Continued in <a href="https://github.com/tau-breath/tauright">TAURIGHT</a></strong>
+</p>
+
+> **This project is now consolidated into [TAURIGHT](https://github.com/tau-breath/tauright).**  
+> New browser-runtime development, persistent multi-session profiles, same-profile concurrent lanes, fast local snapshots/actions, tab/session management, and automatic stable Patchright updates continue there.  
+> This repository remains public as a focused historical/reference implementation.
+
 # browser-use Skill for Claude Code
 
 A Claude Code skill that wraps the official [browser-use](https://github.com/browser-use/browser-use) library, enabling AI-powered browser automation through two modes:
